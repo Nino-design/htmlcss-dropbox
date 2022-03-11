@@ -36,7 +36,7 @@ html{
 
   .left{
       float: left;
-      width: 50%;
+      width: 40%;
       
   }
 
@@ -66,13 +66,16 @@ html{
 
 .ban-container{
     background-color: #b4d0e7;
-    padding-top: 2.5em;
-    margin-top: 3.2em;
+    margin-top: 3em;
+    
 }
 
 .banner{
     width: 80%;
+    max-width: 1200px;
     margin: 0 auto;
+    position: relative;
+    bottom: -60px;
     
     
 
@@ -109,11 +112,19 @@ html{
     color: white;
 }
 
+.p-ban-1{
+    font-size: 0.8em;
+}
+
 .p-ban{
     padding-bottom: 2em;
+    font-size: 0.7em;
 }
 
 .arrow{
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 800;
+    text-decoration: none;
+    color: black;
+    padding-bottom: 2em;
 }
