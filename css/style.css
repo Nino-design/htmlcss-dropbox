@@ -11,6 +11,8 @@ html{
 .navbar{
     width: 100%;
     height: 50px;
+    z-index: 100;
+    background-color: rgb(255, 255, 255);
     position: fixed;
     top: 0;
     left: 0s;
@@ -45,7 +47,7 @@ html{
      
   }
 
-  ul li{
+.menu ul li{
     display: inline-block;
     font-size: 0.8em;
     margin-right: 3em;
@@ -127,4 +129,79 @@ html{
     text-decoration: none;
     color: black;
     padding-bottom: 2em;
+}
+
+.first-section{
+    margin-top: 10em;
+}
+
+.column-side{
+    height: 700px;
+    border: 1px solid lightgray;
+    width: 33%;
+    margin: 10px 0;
+}
+
+.column-center{
+    height: 700px;
+    padding-left: 1em;
+    width: calc(33% - 20px);
+    border: 1px solid lightgray;
+    margin: 10px;
+}
+
+
+
+.container-1{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.radio{
+    margin-bottom: 1em;
+
+}
+
+.col-button{
+    padding: 0.5em 1em;
+    border-style: none;
+    background-color: #0061ff;
+    color: white;
+    margin-top: 2em;
+}
+
+.first-section{
+    margin-bottom: 1em;
+}
+
+.font-col{
+    font-size: 0.8em;
+}
+
+
+.col-top{
+    text-align: center;
+    padding: 1em;
+    border: 1px solid lightgray;
+}
+
+
+.col-mg{
+    margin-bottom: 0.5em;
+}
+.col-mg2{
+    margin-bottom: 3em ;
+}
+
+ul li{
+    list-style-type: none;
+    margin-bottom: 1.2em;
+}
+
+.fs-title{
+    padding-bottom: 1.5em;
+}
+
+label{
+    margin-right: 2em;
 }
