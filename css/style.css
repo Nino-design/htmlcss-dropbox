@@ -205,3 +205,33 @@ ul li{
 label{
     margin-right: 2em;
 }
+
+.container-2{
+    width: 60%;
+    margin: 0 auto;
+    height: 180px;
+    border: 1px solid lightgray;
+}
+
+
+.col-top-2{
+    text-align: center;
+    padding: 0.5em;
+    border: 1px solid lightgray;
+}
+
+
+.col-left-2{
+    width: 70%;
+    text-align: left;
+    
+}
+
+.col-right-2{
+    width: 30%;
+    
+}
+
+.pd1{
+    padding:2em;
+}
