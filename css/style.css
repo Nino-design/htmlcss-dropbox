@@ -429,3 +429,30 @@ label{
     padding: 0.5em 1em;
     border-style: none;
 }
+
+
+.container-7{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 6em;
+    margin-bottom: 6em;
+}
+
+.questions{
+    margin-bottom: 3em;
+    font-size: 1.5em;
+}
+
+.question{
+    font-weight: bold;
+    font-size: 0.8em;
+    line-height: 3em;
+}
+
+.bar{
+    border-color: lightgray;
+}
+
+.arrow-down{
+    margin-left: 35%;
+}
