@@ -456,3 +456,46 @@ label{
 .arrow-down{
     margin-left: 35%;
 }
+
+.footer{
+    background-color: black;
+    height: 360px;
+    padding-top: 3em;
+    padding-bottom: 7em;
+    color: white;
+
+}
+
+.footer h4{
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+.footer li{
+    line-height: 0.5em;
+}
+
+.footer li a{
+    font-size: 0.7em;
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+.container-footer{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+.foot-col{
+    float: left;
+    width: 20%;
+}
+
+
+.footer-image{
+    padding-top: 6em;
+    font-size: 0.7em;
+    color: gray;
+}
