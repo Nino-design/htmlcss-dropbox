@@ -235,3 +235,36 @@ label{
 .pd1{
     padding:2em;
 }
+
+.container-3{
+    width: 60%;
+    margin: 0 auto;
+    height: 350px;
+    margin-top: 6em;
+}
+
+.image-left{
+    float: left;
+    width: 60%;
+}
+
+.image-left img{
+    width: 80%;
+    height: 80%;
+    
+}
+
+.right-text{
+    float: left;
+    width: 40%;
+    margin-top: 2em;
+    margin-left: -3em;
+    line-height: 1.5em;
+}
+
+
+.col-button-1{
+    padding: 0.7em 1.2em;
+    border: 1px solid black;
+    color: black;
+}
